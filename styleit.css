@@ -1,0 +1,87 @@
+body {
+  font-family: "Montserrat";
+  text-align: center;
+}
+.fixed-image
+{
+  position:fixed;
+  width:5%;
+  border-radius:30%;
+  color: #434e52;
+}
+.image
+{
+  width:80%;
+  border-radius:10%;
+}
+#title1
+{
+  font-family: cursive;
+  color:#fff;
+  font-size: 1.5rem;
+  padding: 5%;
+  text-align: center;
+  background-color:#ff2e63;
+}
+.heading{
+  color:#010a43;
+  font-family: cursive;
+  font-weight: bold;
+}
+#title2
+{
+  background-color:#434e52;
+  font-family: cursive;
+  color:#ffffdd;
+  font-size: 1.5rem;
+  padding: 5% 3% 3% 3%;
+  text-align: center;
+}
+#title3
+{
+  font-family: cursive;
+  color:#ffffdd;
+  font-size: 1.5rem;
+  padding: 5% 3% 3% 3%;
+  text-align: center;
+  background-color:#5b8c85;
+}
+#title4
+{
+  font-family: cursive;
+  color:#ffffdd;
+  font-size: 1.5rem;
+  padding: 5% 3% 3% 3%;
+  text-align: center;
+  background-color:#ce0f3d;
+}
+#title5
+{
+  font-family: cursive;
+  color:#ffffdd;
+  font-size: 1.5rem;
+  padding: 5% 3% 3% 3%;
+  text-align: center;
+  background-color:#333333;
+}
+
+.image-last
+{
+  width:100%;
+  margin-top: 30%;
+  border-radius:20%;
+}
+#title6
+{
+  font-family: cursive;
+  color:#110133;
+  font-size: 1.5rem;
+  padding: 5% 3% 3% 3%;
+  text-align: center;
+  background-color:#bac7a7;
+}
+.failure
+{
+  color:#ff0000;
+  font-weight: bold;
+}
